@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("做了主页")
         print("做了商城")
+        print("优化界面")
     }
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
