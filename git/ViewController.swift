@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("做了主页")
+        print("做了商城")
     }
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
